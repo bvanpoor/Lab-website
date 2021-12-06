@@ -1,0 +1,16 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: about.html
+    - text: "Current Research"
+      href: curr_res.html
+    - text: "Prospective Students"
+      href: pros_stud.html
+    - text: "Publications"
+      href: pubs.html
+    - text: "Parnters and Funding"
+      href: fund.html
