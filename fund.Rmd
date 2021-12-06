@@ -6,11 +6,15 @@ title: "Partners and Funding"
 
 > Funding
 
-## Funding for projects and students is through work and support by:
+#### Funding for projects and students is through work and support by:
 
 ![Freshwater Fisheries Society of BC](https://bctechnology.com/tmp/logos/DB98DC0DBAFDE48E8F74C0DE001D35E43A7119AE240A38817FC382B2780961DE.jpg)
-![BC Ministry of Forests, Lands, Natural Resource Operations and Rural Development](https://www.archdatarequest.nrs.gov.bc.ca/2006_templates/images/BC_FLNR_H_RGB_pos.png)
-![Fisheries and Oceans Canada](https://i2.wp.com/inrest.ca/wp-content/uploads/2020/07/Logo-MPO-DFO.png?fit=1001%2C1001&ssl=1&w=640)
-![Habitat Conservation Trust Foundation](https://hctf.ca/wp-content/themes/hctf/images/logo-dark.png)
+<br>
+![BC Ministry of Forests, Lands, Natural Resource Operations and Rural Development](https://www.archdatarequest.nrs.gov.bc.ca/2006_templates/images/BC_FLNR_H_RGB_pos.png){width=50%}
+![BC Ministry of Environment and Climate Change Strategy](https://pbs.twimg.com/profile_images/1073348896242323456/CBEc8s0m_400x400.jpg){width=30% height=50%}
+![Fisheries and Oceans Canada](https://i2.wp.com/inrest.ca/wp-content/uploads/2020/07/Logo-MPO-DFO.png?fit=1001%2C1001&ssl=1&w=640){width=40% height=50%}
+![Habitat Conservation Trust Foundation](https://hctf.ca/wp-content/themes/hctf/images/logo-dark.png){width=40% height=50%}
 
-![MITACS](https://www.mitacs.ca/sites/default/files/uploads/newsroom/mitacs_colour.jpg)
+![MITACS](https://www.mitacs.ca/sites/default/files/uploads/newsroom/mitacs_colour.jpg){width=30% height=50%}
+
+
